@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.section{
+    background: #ccc;
+    width: 100%;
+    padding: 50px;
+    margin: 40px 0;
+
+}
+
+.main-section{
+    background-color: yellow;
+}
+
+.section header{
+    background-color: red;
+}
+
+.main-section header{
+    margin-bottom: 30px;
+    background-color: purple;
+}
